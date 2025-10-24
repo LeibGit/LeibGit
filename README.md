@@ -17,5 +17,5 @@
 ![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple)
 
 
-##Links
+## Relevant Links
 [My CodeWars Profile:](https://www.codewars.com/users/LEIBCODEZ)
