@@ -14,4 +14,4 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leibgit=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?LeibGit=LeibGit)](https://github.com/leibgit/github-readme-stats)
