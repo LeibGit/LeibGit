@@ -3,10 +3,11 @@
 
 # My Languages & Tools:
 <div style="display: inline-block">
-  <img width="64" height="64" alt="python (1)" src="https://github.com/user-attachments/assets/8c473c82-88d2-457b-8cce-b59c6a18f583" />
-  <img width="64" height="64" alt="typescript (1)" src="https://github.com/user-attachments/assets/db6dd93d-3486-4c66-b286-11fef0e2eef8" />
-  <img width="64" height="64" alt="science" src="https://github.com/user-attachments/assets/e5a2e99f-819b-4189-aab4-d42b986b47fa" />
-  <img width="64" height="64" alt="icons8-js-64" src="https://github.com/user-attachments/assets/111d13f6-903f-4526-aa66-a44238031050" />
-  <img width="64" height="64" alt="icons8-html-64" src="https://github.com/user-attachments/assets/1858652f-6614-4ec9-9e4c-129c7f33ce4b" />
-  <img width="64" height="64" alt="icons8-css-filetype-64" src="https://github.com/user-attachments/assets/f8088dd2-3deb-4092-9c4b-676e186bea7b" />
+  <img width="100" height="100" alt="css" src="https://github.com/user-attachments/assets/939df812-6512-4903-abe2-cbd43030e7a7" />
+  <img width="100" height="100" alt="typescript (2)" src="https://github.com/user-attachments/assets/d5225584-2030-4db8-97d8-7dbe3fb393b2" />
+  <img width="100" height="100" alt="react" src="https://github.com/user-attachments/assets/aebb86db-6070-4646-a982-d3d70cd48494" />
+  <img width="100" height="100" alt="javascript (1)" src="https://github.com/user-attachments/assets/fd0d74b0-f299-4f32-af99-a7bba7d410c3" />
+  <img width="100" height="100" alt="firebase" src="https://github.com/user-attachments/assets/12bccb14-a309-4033-acb0-e5f521e4a8fb" />
+  <img width="100" height="100" alt="fastapi" src="https://github.com/user-attachments/assets/8f9fcc16-58ef-4629-ac36-1cac5935dbc3" />
+  <img width="100" height="100" alt="html5" src="https://github.com/user-attachments/assets/415815ea-c44e-4eb5-a479-75051b26290e" />
 </div>
