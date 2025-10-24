@@ -1,22 +1,7 @@
 ## Hi there, I'm Leib 👋
 
-Full-Stack Software En
-<img width="512" height="512" alt="js" src="https://github.com/user-attachments/assets/493dd94a-8d53-45db-80c6-1a1ab09c1cf3" />
-<img width="512" height="512" alt="typescript" src="https://github.com/user-attachments/assets/1f2428ba-3868-49fa-bd81-5c3361b2ce83" />
-<img width="512" height="512" alt="python" src="https://github.com/user-attachments/assets/371bd11e-6067-45c1-b8e0-2ad68baeb47c" />
-<img width="512" height="512" alt="physics" src="https://github.com/user-attachments/assets/32cca1d6-e3ef-42c9-afe9-c3f2c59a6df2" />
-gineer
-
-**LeibGit/LeibGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-Stack Software Engineer
+- My Expertise: React Native, JS, TS, PY, FastAPI, Firebase
+- 🔭 I’m currently working on: Integrating AI/ML
+- 🌱 I’m currently learning AI/ML
+- 💬 Ask me about: AI/ML
