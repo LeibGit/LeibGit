@@ -14,4 +14,4 @@
 </p>
 
 
-[![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?LeibGit=LeibGit)](https://github.com/leibgit/github-readme-stats)
+![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&hide=contribs,prs)
