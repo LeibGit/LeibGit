@@ -18,4 +18,4 @@
 
 
 ## Relevant Links
-[My CodeWars Profile:](https://www.codewars.com/users/LEIBCODEZ)
+[My CodeWars Profile](https://www.codewars.com/users/LEIBCODEZ)
