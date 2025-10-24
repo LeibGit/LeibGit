@@ -1,6 +1,6 @@
 # Hi there, I'm Leib 👋
+![physics](https://github.com/user-attachments/assets/85751dd2-c646-447e-b575-cb1b7f9f776a)
 
 ## My Experience
-<img width="512" height="512" alt="physics (1)" src="https://github.com/user-attachments/assets/dcde7420-9d98-4bcb-aac3-523ad9e3bd7e" />
 
 #React Native, JS, TS, PY, FastAPI, Firebase
