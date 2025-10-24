@@ -12,3 +12,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leibgit=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
