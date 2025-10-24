@@ -14,4 +14,4 @@
 </p>
 
 
-![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&hide=contribs,prs)
+![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple)
