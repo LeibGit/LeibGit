@@ -1,5 +1,8 @@
 ## Hi there, I'm Leib 👋
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBuMnV3YWhpeDB6MTM5ZHh5dTNidDE2dHBlYmI3anZlZTd0Z3RoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgqJX5EifBjTNM4/giphy.gif
+
+Full-Stack Software Engineer
+![Mesmerizing Black And White GIF by xponentialdesign](https://github.com/user-attachments/assets/83d466c6-1c15-4523-b258-3fb6b3d44696)
+
 <!--
 **LeibGit/LeibGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
