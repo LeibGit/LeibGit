@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm Leib 👋
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBuMnV3YWhpeDB6MTM5ZHh5dTNidDE2dHBlYmI3anZlZTd0Z3RoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgqJX5EifBjTNM4/giphy.gif
 <!--
 **LeibGit/LeibGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
