@@ -11,3 +11,10 @@
   <img width="64" height="64" alt="fastapi" src="https://github.com/user-attachments/assets/8f9fcc16-58ef-4629-ac36-1cac5935dbc3" />
   <img width="64" height="64" alt="html5" src="https://github.com/user-attachments/assets/415815ea-c44e-4eb5-a479-75051b26290e" />
 </div>
+![html5](https://github.com/user-attachments/assets/cfa38730-393f-43e0-83e9-b03c8c1a2706)
+![javascript](https://github.com/user-attachments/assets/ae4d6532-1f55-4913-836a-65ef87a4dc17)![firebase](https://github.com/user-attachments/assets/c46f8e2f-491d-441d-81eb-886a99ee6aa6)
+![fast-api](https://github.com/user-attachments/assets/175ae20a-c03c-4dcb-baa7-1e44ca781abd)
+![css](https://github.com/user-attachments/assets/714d905d-fbf1-4d5d-9637-447cdd43c092)
+![typescript](https://github.com/user-attachments/assets/da7f6d52-fdb9-4803-a4b3-2c903ec63389)
+![reactjs](https://github.com/user-attachments/assets/f38b4bba-afb7-4e87-a580-591ac052db1a)
+![python](https://github.com/user-attachments/assets/81a37871-8fe3-4258-b69e-3296b504de65)
