@@ -13,7 +13,16 @@
 </p>
 
 
-![Leib's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple)
+### 📊 GitHub Stats
+
+<div align="center">
+
+![LeibGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LeibGit&theme=midnight-purple)
+
+</div>
+
 
 
 ## Relevant Links
