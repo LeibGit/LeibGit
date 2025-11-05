@@ -19,7 +19,6 @@
 
 ![LeibGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LeibGit&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple)
 
 </div>
 
