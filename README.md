@@ -18,7 +18,6 @@
 <div align="center">
 
 ![LeibGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple)
-![GitHub Streak](https://streak-stats.demolab.com/?user=LeibGit&theme=midnight-purple)
 ![LeibGit's GitHub Streak](https://streak-stats.demolab.com/?user=LeibGit&theme=midnight-purple)
 
 </div>
