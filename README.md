@@ -18,13 +18,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple" alt="LeibGit's GitHub stats" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LeibGit&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
-</div>
 
 ---
 
