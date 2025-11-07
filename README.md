@@ -1,8 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8272FF&width=435&lines=Hello,+I'm+Leib+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8272FF&width=435&lines=Hey%2C+I'm+Leib+👋;Fullstack+Dev+%7C+Indie+Hacker;)](https://git.io/typing-svg)
 
 ---
 
-# 💻 My Languages & Tools
+### 🧠 About Me
+
+💡 Constantly building, breaking, and shipping new ideas.  
+🚀 Currently exploring **FastAPI**, **React**, and **AI-powered automation**.  
+🌍 Based somewhere between code, caffeine, and curiosity.  
+🛠 Always learning, always hacking.
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
@@ -12,17 +21,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats & Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple&hide_border=true" height="180em" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple" alt="LeibGit's GitHub stats" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeibGit&theme=midnight-purple&hide_border=true" height="180em" />
+</p>
 
 ---
 
-## 🔗 Relevant Links
-- [My CodeWars Profile](https://www.codewars.com/users/LEIBCODEZ)
+## 🧩 Current Focus
+
+- Building **indie projects** that solve real problems  
+- Diving deeper into **backend systems & AI tools**  
+- Improving dev workflow with **automation & analytics**
+
+---
+
+## 🔗 Connect
+
+- 🥋 [CodeWars Profile](https://www.codewars.com/users/LEIBCODEZ)  
+- 🧠 [Dev.to (coming soon)](#)  
+- 🪴 [Portfolio (in progress)](#)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LeibGit&color=8265FF&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>“Build. Ship. Learn. Repeat.”</i>
+</p>
