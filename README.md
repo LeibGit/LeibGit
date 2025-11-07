@@ -4,10 +4,9 @@
 
 ### 🧠 About Me
 
-💡 Constantly building, breaking, and shipping new ideas.  
+💡 Constantly building innovative apps.  
 🚀 Currently exploring **FastAPI**, **React**, and **AI-powered automation**.  
-🌍 Based somewhere between code, caffeine, and curiosity.  
-🛠 Always learning, always hacking.
+🌍 I like caffiene, code, and working out. 
 
 ---
 
