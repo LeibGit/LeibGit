@@ -49,8 +49,8 @@
 
 ## 🔗 Connect
 
-- 🥋 [CodeWars Profile](https://www.codewars.com/users/LEIBCODEZ)  
-- 🧠 [Dev.to (coming soon)](#)  
+- 🥋 [Leetcode Profile](https://leetcode.com/u/lr101204/)  
+- 🧠 [CodeWars Profile](https://www.codewars.com/users/LEIBCODEZ)    
 - 🪴 [Portfolio (in progress)](#)
 
 ---
