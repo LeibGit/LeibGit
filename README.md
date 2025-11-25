@@ -51,7 +51,8 @@
 ## 🧩 Current Focus
 
 - Building **indie projects** that solve real problems  
-- Diving deeper into **backend systems & AI tools**  
+- Diving deeper into **backend systems & AI tools**
+- Meeting talented like-minded engineers
 
 ---
 
