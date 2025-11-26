@@ -38,12 +38,13 @@
 ## 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple&hide_border=true" height="180em" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeibGit&theme=midnight-purple&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeibGit&theme=midnight-purple&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple&hide_border=true" height="180em" />
 </p>
 
 ---
