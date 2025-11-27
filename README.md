@@ -51,9 +51,10 @@
 
 ## 🧩 Current Focus
 
+- Securing a 2026 Internship to contribute and gain practical experience.
 - Building **indie projects** that solve real problems  
 - Diving deeper into **backend systems & AI tools**
-- Meeting talented like-minded engineers
+- Meeting talented, like-minded engineers
 
 ---
 
