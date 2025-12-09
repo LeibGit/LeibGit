@@ -1,5 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8272FF&width=435&lines=Hey%2C+I'm+Leib+👋;Fullstack+Dev+%7C+AI/ML+Developer;)](https://git.io/typing-svg)
 
+## 📊 GitHub Stats & Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeibGit&theme=midnight-purple&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple&hide_border=true" height="180em" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -31,20 +42,6 @@
           
           
           
-</p>
-
----
-
-## 📊 GitHub Stats & Analytics
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeibGit&theme=midnight-purple&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple&hide_border=true" height="180em" />
 </p>
 
 ---
