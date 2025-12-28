@@ -1,25 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8272FF&width=500&lines=Hey%2C+I'm+Leib+👋;Fullstack+Dev+%7C+AI%2FML+Developer)](https://git.io/typing-svg)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeibGit&show_icons=true&theme=midnight-purple&hide_border=true" height="160em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeibGit&theme=midnight-purple&hide_border=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeibGit&layout=compact&theme=midnight-purple&hide_border=true" height="160em" />
-</p>
-
----
-
-## 🧠 About Me
-
-💡 Passionate about AI/ML & fullstack development  
-🚀 Currently exploring **FastAPI**, **React**, and **AI-powered applications**  
-🌍 Coffee lover ☕ | Coding enthusiast 💻 | Fitness fan 🏋️  
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
