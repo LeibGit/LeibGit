@@ -24,9 +24,8 @@
 ## 🔗 Connect with Me
 
 - 🥋 [LeetCode](https://leetcode.com/u/lr101204/)  
-- 🧠 [CodeWars](https://www.codewars.com/users/LEIBCODEZ)  
-- 🪴 [Portfolio (in progress)](#)  
-
+- 🧠 [Linkedin](https://www.linkedin.com/in/leib-roth-bba7a623b/)
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeibGit&color=8265FF&style=flat-square" alt="Profile views" />
 </p>
